@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bowling.unity
+    guid: b6803ded87b9bd946afe46a9ef84433e
   m_configObjects: {}
